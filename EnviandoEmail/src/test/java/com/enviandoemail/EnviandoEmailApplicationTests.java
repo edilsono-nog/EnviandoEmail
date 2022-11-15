@@ -34,7 +34,7 @@ class EnviandoEmailApplicationTests {
 														   "Testando e-mail com Java", 
 														   stringBuilderTextoEmail.toString());
 		
-		enviaEmail.enviarEmailAnexo(true);
+		enviaEmail.enviarEmail(true);
 		
 	}
 
